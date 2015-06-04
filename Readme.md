@@ -1,7 +1,9 @@
 # Langugage Data for the Team canvas
 
 ```
-After a series of exercises and brainstorming sessions with various teams, we have clustered the most frequently occurring factors that positively influence Trust in teams (and from different sources too, for ex. “The Trust Edge” David Horsager).
+After a series of exercises and brainstorming sessions with various teams, we have clustered 
+the most frequently occurring factors that positively influence Trust in teams 
+(and from different sources too, for ex. “The Trust Edge” David Horsager).
 ```
 [From](http://inteamwetrust.com/team-trust-toolbox/team-trust-canvas/)
 
