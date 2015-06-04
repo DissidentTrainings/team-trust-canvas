@@ -1,9 +1,9 @@
-1. **Clarté** A Team experiences trust when they see transparency and mistrust when things are ambiguous. How shall we build and support the clarity, openness and transparency? How can we avoid the uncertainty and vagueness?
-2. **Connexion** It is natural for people to follow others and build relationships. How can we connect and engage with each other? How can we improve our relationships and reduce conflicts?
-3. **Compassion.** Team members need to care about each other. Are we ready to show concerns? Are we ready to be compassionate?
-4. **Valeurs.** People want to trust those who support their values. How can we align them?
-5. **Compétence.** We have confidence in those who stay fresh, innovative and competent. How do we grow our competency?
-6. **Engagement.** We trust only those who demonstrate a commitment to action. How do we take responsibility and fulfill it?
-7. **Contribution.** People are motivated and engaged when they deliver results. People trust results. Is anything getting done? How do our rules and policies promote getting things done? How do our organization’s culture reward results?
-8. **Régularité.** We like to see the things done consistently. Is our trust and confidence rising or falling each Sprint?
+1. **Clarté** Une équipe expérimente la confiance lorsqu’elle voit la transparence et la méfiance lorsqu’elle voit des choses ambigües. Comment pouvons-nous construire et soutenir la clarté, l’ouverture et la transparence ? Comment pouvons-nous éviter l’incertitude et le manque de clarté ?
+2. **Connexion** Comment pouvons-nous éviter le manque de transparence et de clarté ? Il est naturel de suivre d’autres personnes et de bâtir des relations avec elles. Comment pouvons-nous nous connecter et nous engager avec d’autres personnes ? Comment pouvons-nous améliorer nos relation et réduire les conflits ?
+3. **Compassion.** Les membres de l’équipe ont besoin de se préoccuper les uns des autres. Sommes-nous prêts à montrer de l’intérêt aux autres ? Sommes-nous prêts à faire preuve de compassion ?
+4. **Valeurs.** Les personnes veulent faire confiance à ceux qui soutiennent leurs valeurs. Comment pouvons-nous les aligner ?
+5. **Compétence.** Nous avons confiance dans ceux qui sont motivés, innovants et compétents. Comment pouvons-nous développer nos compétences ?
+6. **Engagement.** Nous faisons uniquement confiance dans les personnes qui démontrent leur engagement dans l’action. Comment prenonsnous et remplissons-nous nos responsabilités ?
+7. **Contribution.** Les personnes sont motivées et engagées lorsqu’elles produisent des résultats. Les personnes font confiance aux résultats. Est-ce que quelque chose est finie ? De quelles façons nos règles et nos façons de travailler permettent-elles de finir des choses ? Comment notre culture organisationnelle récompense-t-elle les résultats ?
+8. **Régularité.** Nous aimons finir des choses régulièrement. Est-ce que notre confiance varie à la hausse ou à la baisse à chaque Sprint ?
 9. Y a-t-il autre chose qui soit important pour nous ?
